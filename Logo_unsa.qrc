@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/Escudo_UNSA.png</file>
+    </qresource>
+</RCC>
